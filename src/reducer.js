@@ -1,5 +1,5 @@
-export default function (state={}, { type, payload }) {
+export default function (state = {}, { type } = {}) {
   switch (type) {
-    default: return state
+    default: return state;
   }
 }

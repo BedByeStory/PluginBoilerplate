@@ -1,10 +1,10 @@
-import Component from './Component'
-import connector from './connector'
-import reducer from './reducer'
-import initialize from './initialize'
+import Component from './Component';
+import actions from './actions';
+import reducer from './reducer';
+import initialize from './initialize';
 
 initialize({
   Component,
-  connector,
-  reducer
-})
+  actions,
+  reducer,
+});
