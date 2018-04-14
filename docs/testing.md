@@ -1,7 +1,9 @@
 # Plugin Testing
 
-## Getting Started
+## Get Started
 
 ```
 $ npm test
 ```
+
+* [Deployment](deployment.md)
