@@ -6,4 +6,4 @@ $ cd my-interaction
 $ npm install
 ```
 
-* [Development](development.md)
+* [Overview](overview.md)

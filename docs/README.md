@@ -5,8 +5,8 @@ Create connected interactions for [BedByeStory©](https://bedbyestory.com) using
 
 ## Contents
 
-* [Overview](overview.md)
 * [Get Started](get_started.md)
+* [Overview](overview.md)
 * [Development](development.md)
 * [Testing](testing.md)
 * [Deployment](deployment.md)

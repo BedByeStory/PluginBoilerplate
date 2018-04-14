@@ -5,4 +5,4 @@ The component will be loaded asynchronously and injected into the [BedByeStory©
 
 This guide will walk you through setting up a sandboxed development environment which provides mockable utilities for all expected property and action types. Once set up interactions can be developed leveraging Redux reducers and actions that can be dispatched accross connected peers.
 
-* [Get Started](get_started.md)
+* [Development](development.md)
