@@ -22,7 +22,7 @@ export default () => (<div className="p-4"></div>);
 ```js
 // src/reducer.js
 
-export default function (state = {}, { type } = {}) {
+export default (state = {}, { type } = {}) => {
   switch (type) {
     default: return state;
   }
